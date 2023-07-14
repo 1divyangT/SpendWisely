@@ -1,16 +1,5 @@
-# expense_tracker
+# SpendWisely
 
-A new Flutter project.
+SpendWisely is a cross-platform expense tracker app made with flutter and dart with this app you can add your different expenses on different things such as travel , leisure , movie , food etc. and can see how much your expenses on different things with the help of comparison bar . It will help you to know where your maximum expense goes and help you to minimize   unnecessary expense which is not needed and can be reduced .
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
